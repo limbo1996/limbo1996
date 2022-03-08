@@ -18,6 +18,3 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=limbo1996&count_private=true&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <br></br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limbo1996&hide=html" />
-</a>
