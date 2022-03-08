@@ -18,3 +18,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=limbo1996&count_private=true&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <br></br>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
