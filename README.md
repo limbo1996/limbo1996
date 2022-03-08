@@ -3,10 +3,11 @@
 <br></br>
 💬 Connect to me by [email](mailto:limbowx1996@162.com). 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 24 Contributions in the Year 2022
+> 🏆 28 Contributions in the Year 2022
  > 
 > 📦 141.7 kB Used in GitHub's Storage 
  > 
@@ -19,22 +20,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
-🌆 Daytime    111 commits    █████████░░░░░░░░░░░░░░░░   36.63% 
-🌃 Evening    157 commits    █████████████░░░░░░░░░░░░   51.82% 
+🌞 Morning    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
+🌆 Daytime    111 commits    █████████░░░░░░░░░░░░░░░░   36.16% 
+🌃 Evening    161 commits    █████████████░░░░░░░░░░░░   52.44% 
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.12% 
-Tuesday      65 commits     █████░░░░░░░░░░░░░░░░░░░░   21.45% 
-Wednesday    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
-Thursday     55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.15% 
-Friday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.56% 
-Saturday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.58% 
-Sunday       19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.27%
 
 ```
 
@@ -45,12 +34,6 @@ Sunday       19 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
@@ -70,10 +53,6 @@ C                        1 repo              █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/limbo1996/limbo1996/master/charts/bar_graph.png) 
-
-
- Last Updated on 08/03/2022 09:58:53 UTC
+ Last Updated on 08/03/2022 18:42:14 UTC
 <!--END_SECTION:waka-->
