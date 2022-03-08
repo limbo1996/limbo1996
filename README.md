@@ -1,8 +1,8 @@
 ### Yoo, I'm Limbo 👋
  [![Blog](https://img.shields.io/badge/Limbo-Blog-blue)](https://limboblog.netlify.app/)
 <br></br>
+💬 Connect to me by [email](mailto:limbowx1996@162.com). 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
