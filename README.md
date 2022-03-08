@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Yoo, I'm Limbo 👋
+ [![Blog](https://img.shields.io/badge/Limbo-Blog-blue)](https://limboblog.netlify.app/)
 <!--
 **limbo1996/limbo1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=limbo1996&count_private=true&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
+<br></br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limbo1996&hide=html" />
 </a>
