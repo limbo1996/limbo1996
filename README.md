@@ -3,7 +3,7 @@
 <br></br>
 💬 Connect to me by [email](mailto:limbowx1996@162.com). 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -54,5 +54,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2022 18:45:20 UTC
+ Last Updated on 04/05/2022 18:45:19 UTC
 <!--END_SECTION:waka-->
