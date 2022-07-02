@@ -36,10 +36,11 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     2 mins              ██████████████░░░░░░░░░░░   56.14% 
+R                        1 min               ███████████░░░░░░░░░░░░░░   43.86%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.0%
 
 ```
 
@@ -56,5 +57,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2022 18:48:12 UTC
+ Last Updated on 02/07/2022 18:41:33 UTC
 <!--END_SECTION:waka-->
