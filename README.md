@@ -9,8 +9,6 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 30 Contributions in the Year 2022
- > 
 > 📦 143.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -36,10 +34,10 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-R                        25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -56,5 +54,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2022 18:44:39 UTC
+ Last Updated on 19/08/2022 18:48:54 UTC
 <!--END_SECTION:waka-->
