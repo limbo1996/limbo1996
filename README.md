@@ -3,7 +3,7 @@
 <br></br>
 💬 Connect to me by [email](mailto:limbowx1996@162.com). 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -19,6 +19,30 @@
  > 
 > 🔑 20 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
+🌆 Daytime    100 commits    ██████████░░░░░░░░░░░░░░░   43.29% 
+🌃 Evening    101 commits    ███████████░░░░░░░░░░░░░░   43.72% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in R** 
 
 ```text
@@ -32,5 +56,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 18:44:11 UTC
+ Last Updated on 05/09/2022 18:47:22 UTC
 <!--END_SECTION:waka-->
