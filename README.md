@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -19,6 +19,30 @@
  > 
 > 🔑 20 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
+🌆 Daytime    99 commits     ██████████░░░░░░░░░░░░░░░   43.04% 
+🌃 Evening    101 commits    ███████████░░░░░░░░░░░░░░   43.91% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in R** 
 
 ```text
@@ -32,5 +56,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2022 18:57:46 UTC
+ Last Updated on 28/09/2022 18:56:03 UTC
 <!--END_SECTION:waka-->
