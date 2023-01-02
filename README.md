@@ -19,30 +19,6 @@
  > 
 > 🔑 20 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    27 commits     ███████████████████░░░░░░   79.41% 
-🌃 Evening    7 commits      █████░░░░░░░░░░░░░░░░░░░░   20.59% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in R** 
 
 ```text
@@ -56,5 +32,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2023 18:35:20 UTC
+ Last Updated on 02/01/2023 18:36:07 UTC
 <!--END_SECTION:waka-->
