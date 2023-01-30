@@ -3,7 +3,7 @@
 <br></br>
 💬 Connect to me by [email](mailto:limbowx1996@162.com). 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -36,10 +36,10 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.0%
 
 ```
 
@@ -56,5 +56,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2023 18:35:08 UTC
+ Last Updated on 30/01/2023 18:38:15 UTC
 <!--END_SECTION:waka-->
