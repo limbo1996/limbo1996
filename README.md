@@ -1,7 +1,7 @@
 ### Yoo, I'm Limbo 👋
  [![Blog](https://img.shields.io/badge/Limbo-Blog-blue)](https://limboblog.netlify.app/)
 <br></br>
-💬 Connect to me by [email](mailto:limbowx1996@162.com). 
+💬 Connect to me by [email](mailto:slst_wangxuan@163.com). 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2047%20mins-blue)
 
