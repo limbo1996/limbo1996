@@ -44,15 +44,15 @@ No Activity Tracked This Week
 **I Mostly Code in R** 
 
 ```text
-R                        12 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+R                        11 repos            █████████░░░░░░░░░░░░░░░░   37.93 % 
+Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 11/05/2023 18:34:35 UTC
+ Last Updated on 12/05/2023 18:34:12 UTC
 <!--END_SECTION:waka-->
