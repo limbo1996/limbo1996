@@ -35,11 +35,10 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    58 mins             █████████████████████░░░░   83.72 % 
-JSON                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in R** 
@@ -55,5 +54,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2023 18:38:11 UTC
+ Last Updated on 15/07/2023 18:35:17 UTC
 <!--END_SECTION:waka-->
