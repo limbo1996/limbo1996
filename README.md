@@ -3,7 +3,7 @@
 <br></br>
 💬 Connect to me by [email](mailto:slst_wangxuan@163.com). 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,10 +35,10 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -54,5 +54,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2023 18:33:24 UTC
+ Last Updated on 05/09/2023 18:33:39 UTC
 <!--END_SECTION:waka-->
