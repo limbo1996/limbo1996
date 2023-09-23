@@ -3,7 +3,7 @@
 <br></br>
 💬 Connect to me by [email](mailto:slst_wangxuan@163.com). 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,12 +35,12 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     21 mins             ████████████████░░░░░░░░░   64.24 % 
-Python                   11 mins             █████████░░░░░░░░░░░░░░░░   35.60 % 
-Ezhil                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Python                   32 mins             ███████████████░░░░░░░░░░   59.94 % 
+JSON                     21 mins             ██████████░░░░░░░░░░░░░░░   39.97 % 
+Ezhil                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+Windows                  53 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -56,5 +56,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2023 18:33:47 UTC
+ Last Updated on 23/09/2023 18:33:27 UTC
 <!--END_SECTION:waka-->
