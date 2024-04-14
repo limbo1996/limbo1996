@@ -3,8 +3,6 @@
 <br></br>
 💬 Connect to me by [email](mailto:slst_wangxuan@163.com). 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2030%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -52,5 +50,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2024 18:32:51 UTC
+ Last Updated on 14/04/2024 22:58:04 UTC
 <!--END_SECTION:waka-->
