@@ -3,8 +3,6 @@
 <br></br>
 💬 Connect to me by [email](mailto:slst_wangxuan@163.com). 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2030%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -17,28 +15,6 @@
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-🌆 Daytime                248 commits         █████████░░░░░░░░░░░░░░░░   35.58 % 
-🌃 Evening                377 commits         ██████████████░░░░░░░░░░░   54.09 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in R** 
 
 ```text
@@ -52,5 +28,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2025 18:44:41 UTC
+ Last Updated on 27/03/2025 18:44:26 UTC
 <!--END_SECTION:waka-->
