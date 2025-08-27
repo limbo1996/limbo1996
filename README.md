@@ -33,10 +33,10 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in R** 
@@ -52,5 +52,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2025 18:46:17 UTC
+ Last Updated on 27/08/2025 18:44:25 UTC
 <!--END_SECTION:waka-->
