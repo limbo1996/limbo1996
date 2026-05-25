@@ -5,54 +5,32 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2034%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 144.7 kB Used in GitHub's Storage 
+> 📦 149.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 53 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-🌆 Daytime                258 commits         █████████░░░░░░░░░░░░░░░░   36.13 % 
-🌃 Evening                382 commits         █████████████░░░░░░░░░░░░   53.50 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in R** 
 
 ```text
-R                        11 repos            █████████░░░░░░░░░░░░░░░░   37.93 % 
-Python                   8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+R                        11 repos            █████████░░░░░░░░░░░░░░░░   36.67 % 
+Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
 
 
- Last Updated on 24/05/2026 19:45:35 UTC
+ Last Updated on 25/05/2026 20:07:10 UTC
 <!--END_SECTION:waka-->
